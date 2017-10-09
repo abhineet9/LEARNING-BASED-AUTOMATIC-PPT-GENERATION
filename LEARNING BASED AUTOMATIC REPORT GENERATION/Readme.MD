@@ -4,10 +4,6 @@ Automatic PPT Generator is a web-based product which gives you the slides given 
 
 ## Modules used in the codes :
 
-#### Following Packages are included:
-
-* `example`        :   description of module
-
 #### Following packages to be installed using pip:
 
 * `nltk`            :   description of nltk
