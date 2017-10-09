@@ -1,6 +1,6 @@
 ## About the project
 
-Automatic Presentation Slides Generator is a web-based product which gives you the slides given a PDF/text file with information as input.
+Automatic PPT Generator is a web-based product which gives you the slides given a PDF/text file with information as input.
 
 ## Modules used in the codes :
 
@@ -25,4 +25,4 @@ Automatic Presentation Slides Generator is a web-based product which gives you t
 
 ## About Us
 
-We are a team of 3 Information Science Engineering students working on the project "Automatic Presentation Slides Generation" under Dr. Shylaja S S,Head Of Department, ISE, PES Institute of Technology. We welcome any suggestions for this project. If anyone want to contribute to this, please reach to us.
+We are a team of 3 Information Science Engineering students working on the project "Learning Based Automatic PPT Generation" under guidance of Prof. S. V. Shinde, Computer Department, AISSMS COE, PUNE. We welcome any suggestions for this project. If anyone want to contribute to this, please reach to us.
